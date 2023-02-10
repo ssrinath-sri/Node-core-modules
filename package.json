@@ -10,6 +10,6 @@
   "description": "",
   "dependencies": {
     "request": "^2.88.0",
-    "tesseract.js": "^1.0.19"
+    "tesseract.js": "^4.0.2"
   }
 }
